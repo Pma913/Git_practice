@@ -1,0 +1,4 @@
+- git add "file name" (set up file to commit)
+- git commit -m "This commit will..." (commit file)
+- git clone [ssh key] (clone a repository)
+- git push (push code to github)
